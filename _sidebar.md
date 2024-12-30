@@ -1,2 +1,4 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Set Up](setup)
+- [Connection](connection)
+- [Actions](actions)
+- [Tools](tools)
